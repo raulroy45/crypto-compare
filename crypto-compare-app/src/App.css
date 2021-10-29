@@ -1,0 +1,15 @@
+.Body {
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+  font-size: 24px;
+  text-align: center;
+  height: 100px;
+}
+.App-header {
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+  font-size: 27px;
+  height: 100px;
+  line-height: 100px;
+  border: 2px #194dad;
+  color: #194dad;
+  text-align: center;
+}
