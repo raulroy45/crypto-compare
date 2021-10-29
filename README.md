@@ -7,7 +7,7 @@ To run this website locally, you need to have conda installed.
 # Steps
 All the following steps are to be run from a terminal at the root of the local repository file.
 
-1. conda create crypto -environment.yml
+1. conda create crypto -f environment.yml
 2. conda activate crypto
 3. export FLASK_APP=crypto-compare 
 4. flask run
