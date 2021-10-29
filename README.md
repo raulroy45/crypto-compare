@@ -2,7 +2,7 @@
 A small project displaying a website with the current prices of Bitcoin and Ethereum from Coinbase and Kraken.
 
 # Requirements
-To run this website locally, you need to have conda installed.
+To run this website locally, you need to have conda, npm and nodejs installed.
 
 # Steps
 All the following steps are to be run from a terminal at the root of the local repository file.
